@@ -5,7 +5,8 @@ from time import sleep
 a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
-os.system('clear')                                                                                                                           print "\033[91m=========================================="
+os.system('clear')                                                                                                                           
+print "\033[91m=========================================="
 print "= AUTHOR     :  Mr.St4ri0nS        "
 print "= FACEBOOK   :  Wong Urep         "
 print "= Github     :  github.com/TomCat394"
